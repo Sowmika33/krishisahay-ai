@@ -1,0 +1,222 @@
+Rice is a Kharif crop that requires warm temperature between 20°C and 35°C.
+Rice requires nitrogen-rich fertilizers such as urea for good vegetative growth.
+Phosphorus helps in root development in rice crops.
+Potassium improves disease resistance in rice plants.
+Excess use of chemical fertilizers in rice reduces soil fertility over time.
+Alternate Wetting and Drying irrigation method saves water in rice cultivation.
+Brown plant hopper is a major pest affecting rice crops.
+Stem borer is a common rice pest that damages crop yield.
+Neem-based pesticides are effective against rice pests.
+Blast disease in rice is caused by fungal infection.
+
+Wheat is a Rabi crop grown in cool and dry climate.
+Loamy soil with good drainage is ideal for wheat cultivation.
+Wheat requires nitrogen, phosphorus, and potassium fertilizers.
+Nitrogen improves wheat grain size and yield.
+Aphids are common pests affecting wheat crops.
+Rust disease is a major fungal disease in wheat.
+Timely irrigation at crown root initiation stage increases wheat yield.
+
+Maize grows well in fertile, well-drained soil with good organic matter.
+Maize requires nitrogen during early growth stages.
+Potassium is important during maize grain filling stage.
+Fall armyworm is a major pest affecting maize crops.
+Crop rotation with legumes improves maize soil fertility.
+
+Cotton grows well in black soil with high moisture retention.
+Cotton requires warm climate and moderate rainfall.
+Bollworm is a major pest affecting cotton crops.
+Integrated Pest Management reduces pest damage in cotton.
+Drip irrigation improves cotton productivity and saves water.
+
+Sugarcane is a long-duration crop requiring high water availability.
+Sugarcane requires nitrogen and potassium fertilizers.
+Ratoon cropping is practiced in sugarcane cultivation.
+Top rot disease affects sugarcane yield.
+
+Pulses improve soil fertility by fixing atmospheric nitrogen.
+Gram, lentil, and pigeon pea are important pulse crops.
+Pulses require less water compared to cereal crops.
+Yellow mosaic virus affects pulse crops.
+
+Oilseed crops include groundnut, mustard, and sunflower.
+Groundnut requires sandy loam soil.
+Calcium is essential for groundnut pod development.
+Mustard grows well in cool climate.
+Sunflower requires good sunlight exposure.
+
+Vegetable crops like tomato, brinjal, and chilli require frequent irrigation.
+Tomato is affected by leaf curl virus transmitted by whiteflies.
+Brinjal is affected by shoot and fruit borer.
+Chilli crops require potassium-rich fertilizers.
+Excess fertilizer use reduces vegetable quality.
+
+Fruit crops like mango, banana, and papaya require well-drained soil.
+Banana requires high potassium for fruit development.
+Mango trees are affected by hopper pests.
+Papaya grows well in tropical climate.
+
+Organic farming avoids chemical fertilizers and pesticides.
+Neem oil is widely used as an organic pesticide.
+Vermicompost improves soil microbial activity.
+Green manuring improves soil organic matter.
+Biofertilizers increase nutrient availability in soil.
+
+Soil testing helps identify nutrient deficiencies.
+Sandy soil drains water quickly.
+Clay soil retains water for longer duration.
+Loamy soil is best for most crops.
+Soil pH between 6.0 and 7.5 is suitable for agriculture.
+Saline soil reduces crop productivity.
+
+Irrigation methods include flood, drip, and sprinkler irrigation.
+Drip irrigation reduces water wastage.
+Sprinkler irrigation is suitable for sandy soils.
+Over-irrigation causes root rot diseases.
+
+Crop rotation reduces pest and disease incidence.
+Crop diversification improves farmer income stability.
+Intercropping increases land use efficiency.
+
+Weather plays a major role in crop productivity.
+Excess rainfall causes crop lodging.
+Drought stress reduces crop yield.
+
+Fungal diseases include rust, powdery mildew, and blight.
+Bacterial diseases affect plant growth and yield.
+Viral diseases spread through insect vectors.
+
+Precision agriculture uses sensors and data for better farming decisions.
+AI in agriculture helps in crop disease detection.
+Satellite data is used to monitor crop health.
+Mobile advisory systems help farmers with real-time guidance.
+
+PM-KISAN scheme provides Rs.6000 per year income support to farmers.
+Pradhan Mantri Fasal Bima Yojana provides crop insurance.
+Soil Health Card scheme gives fertilizer recommendations.
+Kisan Credit Card provides low-interest agricultural loans.
+Government subsidies support drip irrigation systems.
+
+Post-harvest losses can be reduced using cold storage.
+Proper storage improves crop shelf life.
+Market price fluctuation affects farmer income.
+
+Sustainable agriculture balances productivity and environmental protection.
+Climate-smart agriculture helps farmers adapt to climate change.
+Kharif season crops are grown during the monsoon season from June to October.
+Rice, maize, cotton, and sugarcane are major Kharif crops.
+Adequate rainfall is important for Kharif crops, but excess rain can cause waterlogging.
+
+Rabi season crops are grown during the winter season from October to March.
+Wheat, mustard, gram, and lentil are major Rabi crops.
+Rabi crops require controlled irrigation due to lower rainfall.
+
+Zaid season crops are grown during summer between March and June.
+Watermelon, cucumber, and fodder crops are common Zaid crops.
+Zaid crops require frequent irrigation due to high temperature.
+
+Crops should be watered based on soil type, crop stage, and weather conditions.
+Sandy soils require more frequent watering due to fast drainage.
+Clay soils require less frequent watering as they retain moisture longer.
+
+Most crops require irrigation every 7 to 10 days during normal conditions.
+During flowering and fruiting stages, crops require more frequent irrigation.
+Over-watering should be avoided as it reduces root oxygen availability.
+
+Drip irrigation is worth the cost for water-scarce regions.
+Drip irrigation saves up to 40 to 60 percent water compared to flood irrigation.
+Drip irrigation increases fertilizer efficiency and crop yield.
+Government subsidies reduce the initial cost of drip irrigation systems.
+
+Water can be saved during dry seasons by using mulching.
+Mulching reduces evaporation and maintains soil moisture.
+Early morning or late evening irrigation reduces water loss.
+Using drought-tolerant crop varieties helps conserve water.
+
+If rainfall is irregular, supplemental irrigation should be provided.
+Rainwater harvesting helps store excess rainwater for later use.
+Farm ponds can be used to manage irregular rainfall.
+Staggered sowing reduces risk during uncertain rainfall patterns.
+
+Waterlogging can be prevented by improving field drainage.
+Raised bed cultivation reduces water stagnation in fields.
+Drainage channels help remove excess water during heavy rainfall.
+Avoid over-irrigation to prevent root rot and fungal diseases.
+
+Proper land leveling ensures uniform water distribution.
+Laser land leveling reduces water wastage in irrigated fields.
+
+During dry seasons, priority irrigation should be given at critical crop stages.
+Critical stages include germination, flowering, and grain filling.
+Skipping irrigation at critical stages reduces crop yield significantly.
+Kharif crops are grown during the monsoon season from June to October.
+Examples of Kharif crops include rice, maize, cotton, sugarcane, groundnut, and soybean.
+Rice is a Kharif crop grown during the monsoon season.
+Maize is a Kharif crop grown during the rainy season.
+Cotton is a Kharif crop that requires warm temperature and rainfall.
+Sugarcane is mainly grown as a Kharif crop in many regions.
+
+Rabi crops are grown during the winter season from October to March.
+Examples of Rabi crops include wheat, mustard, gram, barley, and lentil.
+Wheat is a Rabi crop grown during the winter season.
+Mustard is a Rabi crop grown in cool climate.
+Gram and lentil are Rabi crops requiring less irrigation.
+
+Zaid crops are grown during the summer season from March to June.
+Examples of Zaid crops include watermelon, cucumber, muskmelon, and fodder crops.
+Watermelon is a Zaid crop grown during summer.
+Cucumber is a Zaid crop that requires frequent irrigation in hot weather.
+
+Rice grows best in the Kharif season due to high rainfall and warm temperature.
+Wheat grows best in the Rabi season due to cool and dry climate.
+Zaid crops grow best in summer with assured irrigation.
+Crop damage is often caused by pests, diseases, water stress, or nutrient imbalance.
+Yellowing of leaves usually indicates nitrogen deficiency or overwatering.
+Wilting of plants during daytime indicates water stress or root damage.
+Stunted crop growth is caused by poor soil fertility or lack of nutrients.
+Wheat is grown in the Rabi season.
+Wheat is a Rabi crop grown during the winter season.
+The Rabi season for wheat is from October to March.
+Rice is grown in the Kharif season.
+Rice is a Kharif crop grown during the monsoon season.
+
+If crop leaves turn yellow, nitrogen fertilizer may be required.
+If leaf tips burn, excess fertilizer or salt accumulation may be the cause.
+If leaves curl and deform, viral infection transmitted by insects may be present.
+
+Poor drainage causes waterlogging and root rot in crops.
+Waterlogged fields reduce oxygen availability to plant roots.
+Improving drainage helps prevent crop damage during heavy rainfall.
+
+Irregular rainfall causes moisture stress and affects crop yield.
+Supplemental irrigation helps crops survive irregular rainfall.
+Mulching helps retain soil moisture during dry periods.
+
+Pest infestation causes holes in leaves and damaged fruits.
+Neem-based pesticides help control pests naturally.
+Integrated Pest Management reduces chemical pesticide dependency.
+
+Fungal diseases increase during high humidity and excess moisture.
+Avoid overhead irrigation to reduce fungal disease spread.
+Timely fungicide application helps control crop diseases.
+
+Over-irrigation causes root rot and nutrient leaching.
+Under-irrigation causes wilting and reduced crop growth.
+Balanced irrigation is essential for healthy crop development.
+
+Nutrient deficiency causes poor flowering and fruiting.
+Phosphorus deficiency affects root growth and flowering.
+Potassium deficiency reduces disease resistance in crops.
+
+Excess fertilizer use reduces soil health and crop quality.
+Soil testing helps apply the right fertilizer dose.
+
+Crop lodging occurs due to excess nitrogen and strong winds.
+Balanced fertilizer use prevents lodging in cereal crops.
+
+Heat stress causes flower drop and reduced yield.
+Providing adequate irrigation reduces heat stress effects.
+
+Poor seed quality leads to uneven crop growth.
+Certified seeds improve crop establishment and yield.
+

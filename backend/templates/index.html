@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>KrishiSahay AI</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: linear-gradient(135deg, #1d976c, #93f9b9);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .card {
+      background: #ffffff;
+      width: 90%;
+      max-width: 600px;
+      border-radius: 16px;
+      padding: 30px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+      animation: fadeIn 0.8s ease-in-out;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    h1 {
+      margin-top: 0;
+      text-align: center;
+      color: #1d976c;
+    }
+
+    p.subtitle {
+      text-align: center;
+      color: #555;
+      margin-bottom: 25px;
+    }
+
+    input {
+      width: 100%;
+      padding: 14px;
+      font-size: 16px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      outline: none;
+      margin-bottom: 15px;
+    }
+
+    input:focus {
+      border-color: #1d976c;
+      box-shadow: 0 0 5px rgba(29, 151, 108, 0.4);
+    }
+
+    button {
+      width: 100%;
+      padding: 14px;
+      background: #1d976c;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    button:hover {
+      background: #168f5b;
+    }
+
+    .answer-box {
+      margin-top: 25px;
+      padding: 15px;
+      background: #f4fdf9;
+      border-left: 5px solid #1d976c;
+      border-radius: 8px;
+      display: none;
+    }
+
+    .answer-box h3 {
+      margin-top: 0;
+      color: #1d976c;
+    }
+
+    footer {
+      margin-top: 25px;
+      text-align: center;
+      font-size: 13px;
+      color: #777;
+    }
+
+    .loading {
+      text-align: center;
+      margin-top: 15px;
+      color: #1d976c;
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card">
+    <h1>🌾 KrishiSahay AI</h1>
+    <p class="subtitle">
+      Ask agriculture questions and get instant AI-based guidance
+    </p>
+
+    <input
+      type="text"
+      id="q"
+      placeholder="e.g. Which fertilizer is best for rice?"
+    />
+
+    <button onclick="ask()">Ask Question</button>
+
+    <div class="loading" id="loading">⏳ Thinking...</div>
+
+    <div class="answer-box" id="answerBox">
+      <h3>Answer</h3>
+      <p id="ans"></p>
+    </div>
+
+    <footer>
+     AI for Farmers 🌱
+    </footer>
+  </div>
+
+  <script>
+    async function ask() {
+      const question = document.getElementById("q").value;
+      const answerBox = document.getElementById("answerBox");
+      const answerText = document.getElementById("ans");
+      const loading = document.getElementById("loading");
+
+      if (!question.trim()) {
+        alert("Please enter a question");
+        return;
+      }
+
+      answerBox.style.display = "none";
+      loading.style.display = "block";
+
+      try {
+        const res = await fetch("/ask", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ question: question }),
+        });
+
+        const data = await res.json();
+
+        loading.style.display = "none";
+        answerBox.style.display = "block";
+        answerText.innerText = data.answer || "No answer found.";
+
+      } catch (error) {
+        loading.style.display = "none";
+        alert("Server error. Please try again.");
+      }
+    }
+  </script>
+</body>
+</html>
+
